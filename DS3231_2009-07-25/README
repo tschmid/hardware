@@ -1,0 +1,12 @@
+This is a small extension board for the DS3231 and DS32kHz TCXO from
+Maxim-IC. The footprint fits the SOIC-16 package of the chip. It has
+pull-outs for all the pins of the DS3231 RTC, though special care has to be
+taken if the same board is supposed to be used for the DS32kHz. In that
+case, all the pins that are not used have to be wired up to the ground plain
+in order to maximize power efficiency.
+
+The subfolders contain the following things:
+
+ENG_DWG: This folder contains the Altium Designer engineering documents.
+
+TO_PCB: This folder contains the gerber files for the PCB manufacturing place.

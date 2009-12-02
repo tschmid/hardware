@@ -1,0 +1,9 @@
+GM16 -> OTL : Board Outline
+GP1  -> L1  : Internal Layer 1
+GP2  -> L2  : Internal Layer 2
+GTL  -> TOP : Top Layer
+GTO  -> TSS : Top Silk Screen
+GTS  -> TSM : Top Solder Mask
+TXT  -> DRL : Drill File (don't use the DRL file!!!)
+GBL  -> BOT : Bottom Layer
+GBS  -> BSM : Bottom Solder Mask

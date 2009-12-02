@@ -1,0 +1,7 @@
+These are the schematic and gerber files for the Quanto+ daughter board. The
+3 subdirectories contain the following documents:
+
+ENG_DWG: Engineering drawings. These are the Altium Designer files.
+TO_ASM: These are the documents that got submitted to the assembly place,
+including instructions on how to assemble the board.
+TO_PCB: These are the gerber files necessary to make the PCB.
