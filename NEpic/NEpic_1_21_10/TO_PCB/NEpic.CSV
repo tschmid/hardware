@@ -1,0 +1,16 @@
+"Bill of Material for NEpic.SchDoc"
+"On 1/21/2010 at 7:38:56 PM"
+
+"Comment","Pattern","Quantity","Components"
+
+"ANT/ATN-2.4","ANT/ANT-2.45-CHPCT-ND","1","E1","ANT/ANT-2.4 Chip Antenna"
+"Cap","CC1608-0603","13","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13","Capacitor (Semiconductor SIM Model)"
+"CRYSTAL_0","FOX/FQ7050B","1","Y1",""
+"Epic MiniProg","6-pin 2mm","1","J1",""
+"Epic Mote Compact","EPIC-Footprint","1","U1",""
+"LITEON/LED BLUE","LITEON/LED/0603","1","D3","LiteOn Blue LED 0605 Footprint"
+"LITEON/LED GREEN","LITEON/LED/0603","1","D2","LiteOn Green LED 0605 Footprint"
+"LITEON/LED RED","LITEON/LED/0603","1","D1","LiteOn Red LED 0605 Footprint"
+"PANASONIC/EVQP2","PANASONIC/EVQP2","1","S1","PANASONIC/EVQP2"
+"Res3","CR1608-0603","4","R1, R2, R3, R4","Resistor"
+"SAMTEC/MEC8-130","SAMTEC/MEC8L-130-CARD","1","J2","0.8mm Pitch 60 pin Card Edge Socket"
